@@ -1,0 +1,5 @@
+{
+  "name": "Aegis Nexus",
+  "description": "A 2D SF infinite defense game combining base defense (C) and agent survival (B) elements, built with Phaser and React. Defend the Core, gather resources, and build your defenses against endless alien waves.",
+  "requestFramePermissions": []
+}
